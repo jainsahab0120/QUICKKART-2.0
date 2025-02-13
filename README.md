@@ -1,7 +1,5 @@
 # QUICKKART-2.0
 
-# QUICKKART 2.0
-
 ## 🛒 Overview
 **QUICKKART 2.0** is a feature-rich **MERN stack** e-commerce platform that enables seamless online shopping experiences. It allows buyers to explore and purchase products effortlessly while providing sellers with tools to manage up to **1000+ products** efficiently.
 
