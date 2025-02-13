@@ -1,5 +1,7 @@
 # QUICKKART-2.0
 
+# QUICKKART 2.0
+
 ## 🛒 Overview
 **QUICKKART 2.0** is a feature-rich **MERN stack** e-commerce platform that enables seamless online shopping experiences. It allows buyers to explore and purchase products effortlessly while providing sellers with tools to manage up to **1000+ products** efficiently.
 
@@ -13,9 +15,7 @@
 - **Responsive & Mobile-Friendly Design**
 
 ## 🏗️ Tech Stack
-- **Frontend:** React, Redux, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Frontend & Backend:** MERN Stack (MongoDB, Express.js, React, Node.js)
 - **Authentication:** JWT-based authentication
 - **Payment Integration:** Secure payment processing
 
@@ -28,27 +28,12 @@ cd QUICKKART-2.0
 
 ### Install Dependencies
 ```sh
-# Install backend dependencies
-cd backend
-npm install
-
-# Install frontend dependencies
-cd ../frontend
 npm install
 ```
 
-### Configure Environment Variables
-Create a `.env` file in the root directory and add the required configuration values (MongoDB URI, JWT Secret, API Keys, etc.).
-
 ### Run the Application
 ```sh
-# Start the backend server
-cd backend
-npm start
-
-# Start the frontend server
-cd ../frontend
-npm start
+npm run start
 ```
 
 ## 📷 Screenshots
