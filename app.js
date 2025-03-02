@@ -16,7 +16,8 @@ const User = require('./models/User');
 const seedDB = require('./seed')
 const MongoStore = require('connect-mongo');
 
-const dbURL = process.env.dbURL || 'mongodb://localhost:27017/Quick-cart-2.0';
+const dbURL = process.env.dbURL || 'mongodb+srv://aryan:aryan@cluster0.gg7d9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+
 
 mongoose.set('strictQuery', true);
 mongoose.connect(dbURL)
