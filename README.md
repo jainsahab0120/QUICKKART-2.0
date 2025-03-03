@@ -1,7 +1,10 @@
 # QUICKKART-2.0
 
-## 🛒 Overview
-**QUICKKART 2.0** is a feature-rich **MERN stack** e-commerce platform that enables seamless online shopping experiences. It allows buyers to explore and purchase products effortlessly while providing sellers with tools to manage up to **1000+ products** efficiently.
+
+## 🛒 Overview  
+**[QUICKKART 2.0](https://quickkart-2-0.onrender.com/)** is a feature-rich **MERN stack** e-commerce platform that enables seamless online shopping experiences. It allows buyers to explore and purchase products effortlessly while providing sellers with tools to manage up to **1000+ products** efficiently.  
+
+🔗 **Live Demo:** [QUICKKART 2.0](https://quickkart-2-0.onrender.com/)  
 
 ## 🚀 Features
 - **User Authentication & Role-Based Access** (Buyer & Seller)
@@ -34,8 +37,8 @@ npm install
 npm run start
 ```
 
-## 📷 Screenshots
-_Add screenshots of the app interface here_
+<!--📷 Screenshots-->
+
 
 ## 📢 Contributing
 Feel free to fork this repository and contribute to its development. Open issues or pull requests for improvements.
